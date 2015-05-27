@@ -1,4 +1,5 @@
 # Mage
+.idea
 /app/etc/local.xml
 /var
 /media
